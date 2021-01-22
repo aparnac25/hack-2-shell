@@ -1,5 +1,6 @@
 # hack-2-shell
-<<<<<<< HEAD
+## Tutorial 4.2
+
 I followed instructions from this video to edit my .bashrc_backup file 
 https://www.youtube.com/watch?v=vDOVEDl2z84
 =======
